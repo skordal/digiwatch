@@ -1,0 +1,9 @@
+# Ignore all files built by make:
+*.o
+*.elf
+*.hex
+
+# Also ignore vim files, in case of crashes:
+.*.swp
+.*.swo
+
