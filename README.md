@@ -19,5 +19,5 @@ You may do whatever you want with this code, as long as you do not profit from i
 How to build a DigiWatch
 ------------------------
 
-Instructions will come in a later revision. They will include pictures and narrative :-) For now you can read the code as an educational experience if you feel like it.
+Instructions will come in a later revision. They will include pictures and narrative :-) For now you can read the code as an educational experience, if you feel like it.
 
